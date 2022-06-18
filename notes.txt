@@ -1,0 +1,34 @@
+what is node js
+    a js runtime 
+
+intro
+
+install
+
+node fundermentals 
+express tutorials
+building apps
+
+browser js          node js
+DOM                 No DOM
+window              No window
+Interactinve        Server side
+no file system      file system
+Fragmentation       versions 
+ES6 modules         common js
+                        no document queries
+
+modules
+    encapsulated code 
+    every file in node is a module
+    need to export 
+    to import need to use require
+
+    if we invoke the function in the module
+    we no need to export the function
+
+    built in module
+        os
+        path
+        fs - file system
+        http
